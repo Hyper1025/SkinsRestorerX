@@ -103,7 +103,7 @@ help: "    &2/sr &7- &fDisplay admin commands."
 # Message sent when requesting admin help
 help_admin:
     - "&2&lSkinsRestorer &7- &f&lv%ver% &c&lAdmin"
-    - "    &2/sr config &7- &fhelp page for usefull in game config settings"
+    - "    &2/sr config &7- &fhelp page for useful in game config settings"
     - "    &2/sr set <player> <skin name> &7- &fChanges the skin of a player.."
     - "    &2/sr drop <player> &7- &fDrops player skin data."
     - "    &2/sr clear <player> &7- &fClears player data."
